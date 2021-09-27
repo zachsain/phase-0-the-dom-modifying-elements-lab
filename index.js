@@ -1,14 +1,16 @@
-const main = document.querySelector('#main');
+// const main = document.querySelector('#main');
 
-main.remove()
+// main.remove()
 
-const newHeader = document.createElement("h1")
+// const newHeader = document.createElement("h1")
 
-newHeader.setAttribute('id', 'victory');
+// newHeader.setAttribute('id', 'victory');
 
 
-document.body.appendChild(newHeader);
+// document.body.appendChild(newHeader);
 
-newHeader. innerHTML = ("Zachary is the champion");
+// newHeader. innerHTML = ("Zachary is the champion");
+
+
 
 
